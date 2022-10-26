@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hello world!&nbsp;🌎</h1>
+<h1 align="center"><> Hello world!&nbsp;🌎</h1>
 
 
 <h3 align="center"><p>
@@ -26,13 +26,10 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-<!--![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)-->
+
+
 
 *Databases:*
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpnatalia&show_icons=true&theme=radical)

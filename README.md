@@ -1,4 +1,4 @@
-<h1 align="center" Hello world!&nbsp;🌎</h1>
+<h2 align="center" Hello world!&nbsp;🌎</h2>
 
 - Currently focusing on *Web development* and other programming languages.
 

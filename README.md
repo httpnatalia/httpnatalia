@@ -1,10 +1,3 @@
-<h2 align="center" Hello world!&nbsp;🌎</h2>
-
-- Currently focusing on *Web development* and other programming languages.
-
-
-> "The greatest successes come from the freedom to fail."
-> ― Mark Zuckerberg
 
 #### Connect with me:
 
@@ -24,6 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpnatalia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpnatalia&layout=compact&langs_count=9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <div>
+
   <a href="https://github.com/httpnatalia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpnatalia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpnatalia&layout=compact&langs_count=8&theme=radical"/>

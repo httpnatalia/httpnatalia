@@ -1,18 +1,6 @@
-<h1 align="center"><> Hello world!&nbsp;🌎</h1>
+<h1 align="center" Hello world!&nbsp;🌎</h1>
 
-
-<h3 align="center"><p>
-  <em>
-    <b>A friendly person, trying to go to the next level of knowledge,</b>&nbsp;🚀 and who is <b>obsessed</b> with <b>technology</b>&nbsp; 👨‍💻.
- </em>
-</p></h3> 
-
-<br>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 Currently focusing on *Web development* and other programming languages.
+- Currently focusing on *Web development* and other programming languages.
 
 
 > "The greatest successes come from the freedom to fail."
@@ -30,14 +18,15 @@
 
 
 *Databases:*
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpnatalia&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpnatalia&layout=compact&langs_count=9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <div>
   <a href="https://github.com/httpnatalia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Paul0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Paul0&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=httpnatalia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpnatalia&layout=compact&langs_count=8&theme=radical"/>
 </div>
 -->
 
